@@ -1,0 +1,2 @@
+1. For node js you need to install node from internet.use LTS for better Stable version.
+2.Basics of javaScript is must.
