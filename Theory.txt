@@ -1,2 +1,5 @@
 1. Node js is a Run-time Env. for JavaScript.
 2.You can Download it from https://nodejs.org/en/.
+3. LTS Mean Long Term Support.
+4. To check wheather Node installed or not  .The command is ==> node --version
+5. To check wheather NPM installed or not  .The command is ==> npm --v
