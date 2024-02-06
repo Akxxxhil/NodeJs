@@ -13,3 +13,5 @@
 7.To intialize the Node  we need to hit the Command i.e ==>npm init
 
 8.Package.json is nothing But a configuration file, where i can add dependencies, i can add Description and Many more......
+
+9.JavaScript is a single Threaded Programming Language.
