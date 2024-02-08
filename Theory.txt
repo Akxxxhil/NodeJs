@@ -15,3 +15,9 @@
 8.Package.json is nothing But a configuration file, where i can add dependencies, i can add Description and Many more......
 
 9.JavaScript is a single Threaded Programming Language.
+
+10. Variables are 2 types  ;;== Primitive ,None Primitive
+
+11.Primitive are simple and immutable where Non-Primitive are complex and mutable.
+
+12.immutable means non changble while mutable means changble
